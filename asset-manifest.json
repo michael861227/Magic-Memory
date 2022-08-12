@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Magic-Memory/static/css/main.b790b6f6.chunk.css",
+    "main.js": "/Magic-Memory/static/js/main.15b1dbdb.chunk.js",
+    "main.js.map": "/Magic-Memory/static/js/main.15b1dbdb.chunk.js.map",
+    "runtime-main.js": "/Magic-Memory/static/js/runtime-main.cfbb4dda.js",
+    "runtime-main.js.map": "/Magic-Memory/static/js/runtime-main.cfbb4dda.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/Magic-Memory/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/Magic-Memory/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/Magic-Memory/index.html",
+    "static/css/main.b790b6f6.chunk.css.map": "/Magic-Memory/static/css/main.b790b6f6.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/Magic-Memory/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfbb4dda.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.b790b6f6.chunk.css",
+    "static/js/main.15b1dbdb.chunk.js"
+  ]
+}
