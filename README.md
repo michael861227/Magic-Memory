@@ -10,7 +10,7 @@ Enjoy and have fun !
 ### Prerequisite
 
 - Download [Node.js](https://nodejs.org/zh-tw/download/)
-- Clone the files and use `npm init` to setup the prerequisite for this project
+- Clone the files and use `npm in` to setup the prerequisite for this project
 
 ### Run on the browser
 
